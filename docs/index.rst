@@ -23,6 +23,14 @@ Mitsuba 2: A Retargetable Forward and Inverse Renderer
 
 .. toctree::
     :maxdepth: 1
+    :caption: Tutorials
+    :titlesonly:
+
+    tutorials/00_first_render
+    tutorials/01_bsdf_plot
+
+.. toctree::
+    :maxdepth: 1
     :caption: Python interface
 
     src/python_interface/intro
